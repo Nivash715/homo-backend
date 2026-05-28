@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+data/
+logs/
+uploads/
+app/ai/saved_models/
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
